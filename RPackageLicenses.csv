@@ -1,0 +1,17 @@
+Coluna1;Package;License
+hsdar;hsdar;GPL
+FME;FME;GPL (>= 2)
+MCMCglmm;MCMCglmm;GPL (>= 2)
+randomForest;randomForest;GPL (>= 2)
+DMwR;DMwR;GPL (>= 2)
+sensitivity;sensitivity;GPL-2
+ggplot2;ggplot2;GPL-2 | file LICENSE
+ggthemes;ggthemes;GPL-2
+reshape;reshape;MIT + file LICENSE
+reshape2;reshape2;MIT + file LICENSE
+extrafont;extrafont;GPL-2
+extrafontdb;extrafontdb;GPL-2
+gridExtra;gridExtra;GPL (>= 2)
+latticeExtra;latticeExtra;GPL (>= 2)
+cowplot;cowplot;GPL-2
+gtools;gtools;GPL-2

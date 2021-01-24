@@ -1,0 +1,16 @@
+Name;Version;License
+prosail;2.0.5;UNKNOWN
+lhsmdu;1.1;MIT
+numpy;1.19.5;BSD
+pandas;1.1.5;BSD
+pandas-datareader;0.9.0;BSD License
+pandas-gbq;0.13.3;BSD License
+pandas-profiling;1.4.1;MIT License
+sklearn-pandas;1.8.0;BSD License
+sklearn;0.0;BSD License
+hyperopt;0.1.2;BSD License
+keras-vis;0.4.1;MIT
+Keras;2.4.3;MIT License
+Keras-Preprocessing;1.1.2;MIT License
+pysptools;0.15.0;Apache Software License
+pip-licenses;3.3.0;MIT License
