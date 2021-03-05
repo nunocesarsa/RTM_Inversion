@@ -6,7 +6,9 @@ Title: "Exploring the impact of noise on hybrid inversion of PROSAIL RTM on Sent
 Authors: Nuno César de Sá, Mitra Baratchi, Leon Hauser, Peter van Bodegom
 
 Date: 11 February 2021
+
 DOI: https://doi.org/10.3390/rs13040648
+
 Link: https://www.mdpi.com/2072-4292/13/4/648
 
 Abstract:
